@@ -15,3 +15,8 @@ A React-based weather application that allows users to search for current weathe
 - **Axios**: Promise-based HTTP client for making requests.
 - **OpenWeatherMap API**: Provides weather data.
 - **Vite**: A fast development environment for modern web projects.
+
+## Sample UI
+
+![Uploading Screenshot 2025-01-14 142349.png…]()
+
