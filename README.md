@@ -18,5 +18,5 @@ A React-based weather application that allows users to search for current weathe
 
 ## Sample UI
 
-![Uploading Screenshot 2025-01-14 142349.png…]()
+![Screenshot 2025-01-14 142349](https://github.com/user-attachments/assets/a3e318ad-9bc5-4cf9-8269-7430e520da33)
 
